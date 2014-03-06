@@ -5,5 +5,5 @@
   "description": "An add-on that fixes the behavior when opening a new tab from a pinned tab. If you use alot of tabs and pinned ones, it will make your day !",
   "author": "",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.2"
 }
